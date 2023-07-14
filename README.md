@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alessandro or @PikaDeUrso
-- 🌱 I’m currently learning Python, SQL and Cloud
-- 📫 How to reach me: alessandro.vsj@hotmail.com
+- 👋 Hi, I’m Alessandro
+- 🌱 I’m currently learning Python, SQL, Cloud and Cybersecurity
+- 📫 How to reach me: h00lowed@proton.me
